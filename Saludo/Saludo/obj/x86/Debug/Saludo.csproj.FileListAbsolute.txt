@@ -1,0 +1,9 @@
+c:\users\abrahan\documents\visual studio 2010\Projects\Saludo\Saludo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\abrahan\documents\visual studio 2010\Projects\Saludo\Saludo\obj\x86\Debug\Saludo.Properties.Resources.resources
+c:\users\abrahan\documents\visual studio 2010\Projects\Saludo\Saludo\obj\x86\Debug\Saludo.saludo.resources
+c:\users\abrahan\documents\visual studio 2010\Projects\Saludo\Saludo\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\abrahan\documents\visual studio 2010\Projects\Saludo\Saludo\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\abrahan\documents\visual studio 2010\Projects\Saludo\Saludo\bin\Debug\Saludo.exe
+c:\users\abrahan\documents\visual studio 2010\Projects\Saludo\Saludo\bin\Debug\Saludo.pdb
+c:\users\abrahan\documents\visual studio 2010\Projects\Saludo\Saludo\obj\x86\Debug\Saludo.exe
+c:\users\abrahan\documents\visual studio 2010\Projects\Saludo\Saludo\obj\x86\Debug\Saludo.pdb
